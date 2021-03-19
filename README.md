@@ -35,4 +35,4 @@ npm install
 
 The `Project-SpareTime/client` repository is hooked to a Netlify service with auto deploys enabled.
 
-So on every successful commit merge, the changes get deployed via the Netlify CI/CD to the [site]([React App (pst-client.netlify.app)](https://pst-client.netlify.app/)). 
+So on every successful commit merge, the changes get deployed via the Netlify CI/CD to the [site](https://pst-client.netlify.app/). 
